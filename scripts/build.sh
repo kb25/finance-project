@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 @echo off
-cd ./src/PartyInvites/ 
+cd ./src/serugees-web/ 
 dotnet restore
 dotnet build
