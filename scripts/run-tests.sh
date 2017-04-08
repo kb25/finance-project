@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-cd ./tests/PartyInvites.Tests/ 
+@echo off
+cd ./tests/serugees-tests/ 
 dotnet restore
 dotnet test
